@@ -1,8 +1,8 @@
 {
   "pack": {
-    "pack_format": 32,
+    "pack_format": 34,
     "supported_formats": {
-      "min_inclusive": 32,
+      "min_inclusive": 34,
       "max_inclusive": 999
     },
     "description": "Adds custom blocks to the game"

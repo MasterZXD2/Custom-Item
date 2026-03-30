@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:fallen"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:fallen"
+      }
+    ]
+  }
+}
